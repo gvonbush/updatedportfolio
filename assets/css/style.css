@@ -23,6 +23,7 @@ h1{
 
 img {
     width: 200px;
+    height: 200px;
 
 
     
@@ -30,8 +31,9 @@ img {
 .cropped img {
     margin: 350px;
 }
-/* .square_image {
-    width: 300px; */
+.square_image {
+    width: 250px;
+    height: 240px;
     
     /* border-radius: 50%; */
 }
@@ -43,4 +45,21 @@ img {
 
 .card-header {
     color: black;
+}
+
+.port-cards {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 20px;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: darkmagenta;
+}
+.container-grid {
+    display: flex;
+    flex-wrap: wrap;
 }
