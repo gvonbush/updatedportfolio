@@ -63,3 +63,7 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
 }
+
+.wrapper {
+    text-align: center;
+}
