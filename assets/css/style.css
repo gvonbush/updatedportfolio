@@ -67,3 +67,20 @@ a:hover {
 .wrapper {
     text-align: center;
 }
+
+
+i.fa-envelope:before {
+    color: #fff;
+}
+
+i.fa-linkedin:before {
+    color: white;
+}
+
+i.fa-github:before {
+    color: white;
+}
+
+button {
+    background-color: brown;
+}
