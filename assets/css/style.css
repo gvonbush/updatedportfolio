@@ -27,8 +27,11 @@ img {
 
     
 }
-.square_image {
-    width: 300px;
+.cropped img {
+    margin: 350px;
+}
+/* .square_image {
+    width: 300px; */
     
     /* border-radius: 50%; */
 }
