@@ -40,3 +40,7 @@ img {
     font-size: 1.2em;
     line-height: 1.6em;
 }
+
+.card-header {
+    color: black;
+}
